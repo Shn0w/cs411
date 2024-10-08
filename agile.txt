@@ -1,0 +1,47 @@
+Theme:
+Get GiggleGit demo into a stable enough alpha to start onboarding some adventurous clients
+
+Epic:
+Onboarding experience
+
+User Story 1:
+As a vanilla git power-user that has never seen GiggleGit before, I want to understand how merges are managed by memes and explore how this differs from vanilla Git, so I can evaluate whether to adopt GiggleGit.
+
+Task 1:
+Create onboarding documentation for git power-users
+
+Ticket 1:
+Title: Write onboarding guide for vanilla Git users
+Details: Develop a step-by-step onboarding guide that explains the differences between GiggleGit and vanilla Git. Highlight how to perform basic operations and how memes are integrated into the merge process.
+
+Ticket 2:
+Title: Create a comparison chart between GiggleGit and vanilla Git
+Details: Create a visual comparison chart that outlines key differences and similarities between vanilla Git and GiggleGit for experienced users.
+
+User Story 2:
+As a team lead onboarding an experienced GiggleGit user, I want to set up best practices for my team’s repository and meme management, so that I can ensure consistency and efficiency during merges.
+
+Task 1:
+Define team onboarding best practices
+
+Ticket 1:
+Title: Create guidelines for repository setup in GiggleGit
+Details: Define a set of best practices for creating and managing repositories in GiggleGit, with a focus on team use and shared meme repositories.
+
+Ticket 2:
+Title: Develop a team meme management process
+Details: Design a process for teams to share and approve memes used in the merging process, ensuring memes are appropriate and aligned with team culture.
+
+User Story 3:
+As a developer using GiggleGit for the first time, I want to test out meme-based merges in a safe environment without impacting live repositories, so I can learn how to effectively use this feature without risk.
+
+Task 1:
+Provide a sandbox environment for meme merges
+
+Ticket 1:
+Title: Implement a sandbox environment for testing meme-based merges
+Details: Set up a sandbox feature where users can perform mock merges with memes without affecting real code repositories.
+
+Ticket 2:
+Title: Create example scenarios for practicing meme merges
+Details: Develop a series of example merge conflicts and walk users through resolving them with memes in the sandbox environment.
